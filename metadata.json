@@ -1,0 +1,6 @@
+{
+  "name": "Coptic Quiz Player",
+  "description": "Android player controller for the Coptic Quiz local Wi-Fi competition system",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
